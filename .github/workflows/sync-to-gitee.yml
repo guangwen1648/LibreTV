@@ -13,5 +13,5 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_TOKEN }}
         with:
-          source-repo: "https://github.com/原作者/原仓库.git"
-          destination-repo: "https://gitee.com/你的用户名/你的仓库.git"
+          source-repo: "https://github.com/guangwen1648/LibreTV.git"
+          destination-repo: "https://gitee.com/guangwenchen/LibreTV.git"
